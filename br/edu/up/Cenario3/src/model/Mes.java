@@ -1,6 +1,7 @@
 package up.Cenario3.src.model;
 
 public class Mes {
+    @SuppressWarnings("unused")
     private String nome;
     private int qtdeDias;
     private Dia[] dias;

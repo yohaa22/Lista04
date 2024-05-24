@@ -1,6 +1,7 @@
 package up.Cenario3.src.model;
 
 public class Dia {
+    @SuppressWarnings("unused")
     private int diaMes;
     private Compromisso[] compromissos;
     private int tamanho;
